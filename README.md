@@ -2,6 +2,8 @@
 
 Team Helter Svelter's final project on the Northcoders Coding Bootcamp ~ November 2022 cohort.
 
+Video Presentation of the App: https://www.youtube.com/watch?v=cwCIi0DQLnQ
+
 ## App functionality for the user
 
 As a user, you can sign up for an account and then login, taking you to the app's homescreen. Here, there are buttons to view the list of exercises and to create a new workout. A user's saved workouts are listed here on the homescreen. When viewing the exercise list, the user is able to filter the exercises by difficulty, helping to cater suggestions to the user's capabilities.
